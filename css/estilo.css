@@ -1,0 +1,32 @@
+body {
+  background: #afe0db;
+}
+
+
+.perfil > h1 {
+  font-family: cursive;
+  font-size: 50px;
+  left: 44vw;
+  top: 9vw;
+  position: absolute;
+  color: #0e8430
+}
+
+.perfil > table {
+  border: 2px dashed;
+  font-size: 20px;
+  font-family: cursive;
+  left: 40.5vw;
+  top: 30vw;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  position: absolute;
+}
+
+img {
+  left: 40vw;
+  top: 15vw;
+  position: absolute;
+}
